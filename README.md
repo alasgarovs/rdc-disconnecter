@@ -1,2 +1,2 @@
-## RDC Disconnecter
-Bu proqram windows serverlərdə istifadəçilərin uzun müddət istifadə etmədiyi zaman uzaq masaüstü bağlantısının (RDC) təhlükəsizlik baxımından avtomatik və ya manual olaraq bağlanması üçün nəzərdə tutulub.
+# RDC Disconnecter
+This program is designed to automatically or manually close remote desktop connection (RDC) on windows servers for security reasons when users are not using it for a long time.
